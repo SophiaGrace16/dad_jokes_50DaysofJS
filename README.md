@@ -1,5 +1,5 @@
 # 50 Days of JS, HTML, & CSS 
-## Project 0: Words
+## Project 10: Dad Jokes
 
 ### Directions for Use:
 
@@ -10,7 +10,7 @@
 ### Contributors:
 
 Bug reports and pull requests are welcome on GitHub at:
-https://github.com/SophiaGrace16/PROJECTREPO
+https://github.com/SophiaGrace16/dad_jokes_50DaysofJS
 
 ### License:
 
